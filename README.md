@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rebechen
-- 👀 I’m interested in applying machine leanring skills to solve real- world problems.
+- 👀 I’m interested in applying machine leanring skills to solve real-world problems.
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on interesting data science project.
 - 📫 How to reach me - find me @linkedin
